@@ -1,0 +1,33 @@
+body {
+    background: rgb(131, 192, 131);
+    margin-left: 30px ;
+    margin-right: 200px;
+    
+}
+
+header {
+    margin-top: 70px;
+}
+
+h1 {
+    color: red;
+    font-family: fantasy;
+}
+
+h2 {
+    color: red;
+    font-family: fantasy;
+}
+
+footer {
+    margin-bottom: 500px;
+}
+
+.img_padrao {
+    margin-bottom: 20px;
+    width: 200px;
+}
+
+.logo_contato {
+    width: 30px;
+}
